@@ -1,0 +1,11 @@
+{
+  "name": "developershortcuts",
+  "version": "1.0.0",
+  "description": "Lecture for HackReactor students",
+  "main": "index.js",
+  "scripts": {
+    "test": "tesrt"
+  },
+  "author": "Zach McCain and SEIRs",
+  "license": "ISC"
+}
