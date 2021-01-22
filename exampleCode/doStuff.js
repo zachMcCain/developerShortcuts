@@ -1,11 +1,11 @@
 
 
-function cloneSheps(cohort) {
+function cloneSheps(cohort, sheps) {
   for (var i = 0; i < cohort.length; i++) {
     if (i % 2 === 0) {
-      cohort[i] = 'Tre Moore';
+      cohort[i] = sheps[0];
     } else {
-      cohort[i] = 'Zach McCain';
+      cohort[i] = sheps[1];
     }
   }
   return cohort;
