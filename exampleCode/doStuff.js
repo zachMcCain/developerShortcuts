@@ -1,5 +1,3 @@
-
-
 function cloneSheps(cohort, sheps) {
   for (var i = 0; i < cohort.length; i++) {
     if (i % 2 === 0) {
@@ -12,5 +10,3 @@ function cloneSheps(cohort, sheps) {
 }
 
 module.exports = cloneSheps;
-
-
